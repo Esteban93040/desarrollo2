@@ -1,0 +1,10 @@
+{
+  "tipo": "circular",
+  "titulo": "Test Chart bT8PS",
+  "datos": [
+    {
+      "leyenda": "Leyenda If0Fo",
+      "valor": "65"
+    }
+  ]
+}

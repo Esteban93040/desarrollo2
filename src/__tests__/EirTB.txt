@@ -1,0 +1,10 @@
+{
+  "tipo": "circular",
+  "titulo": "Test Chart L86u6",
+  "datos": [
+    {
+      "leyenda": "Leyenda tsWin",
+      "valor": "92"
+    }
+  ]
+}
